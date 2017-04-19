@@ -1,4 +1,7 @@
-# test coverage for  [disc (v1.3.2)](https://github.com/hughsk/disc)  [![npm package](https://img.shields.io/npm/v/npmtest-disc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-disc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-disc.svg)](https://travis-ci.org/npmtest/node-npmtest-disc)
+# npmtest-disc
+
+#### basic test coverage for  [disc (v1.3.2)](https://github.com/hughsk/disc)  [![npm package](https://img.shields.io/npm/v/npmtest-disc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-disc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-disc.svg)](https://travis-ci.org/npmtest/node-npmtest-disc)
+
 #### A tool for analyzing the module tree of a browserify bundle or node project
 
 [![NPM](https://nodei.co/npm/disc.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/disc)
